@@ -4,6 +4,7 @@
 This project is a personal Developer Profile Page built using React as part of the Week 05 Web Development Task. It showcases my profile, technical skills, projects, and contact information using reusable React components.
 
 ## ✨ Features
+
 - **About Me:** Introduction and developer profile.
 - **Skills:** Displays technical skills dynamically using arrays and the `map()` method.
 - **Projects:** Showcases my projects using reusable components.
@@ -15,6 +16,7 @@ This project is a personal Developer Profile Page built using React as part of t
 - **Dark/Light Mode:** Allows users to switch between themes.
 
 ## 🛠️ Technologies Used
+
 - React.js
 - JavaScript (ES6+)
 - JSX
@@ -32,31 +34,28 @@ Install Node.js and npm on your computer.
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yashvithms/week-5-developer-profile-page.git
-   ```
-
+```
+git clone https://github.com/yashvithms/week-5-developer-profile-page.git
+```
 2. Navigate to the project folder:
 
-   ```bash
-   cd week-5-developer-profile-page
-   ```
-
+```
+cd week-5-developer-profile-page
+```
 3. Install dependencies:
 
-   ```bash
-   npm install
-   ```
-
+```
+npm install
+```
 4. Start the development server:
 
-   ```bash
-   npm run dev
-   ```
-
+```
+npm run dev
+```
 5. Open the local URL displayed in your terminal.
 
 ## 📚 Learning Outcomes
+
 - Understanding React components and JSX.
 - Passing data using props.
 - Rendering dynamic lists using arrays and `map()`.
