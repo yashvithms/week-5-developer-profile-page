@@ -1,16 +1,75 @@
-# React + Vite
+# 💻 Developer Profile Page – Week 05 Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📌 About the Project
+This project is a personal Developer Profile Page built using React as part of the Week 05 Web Development Task. It showcases my profile, technical skills, projects, and contact information using reusable React components.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **About Me:** Introduction and developer profile.
+- **Skills:** Displays technical skills dynamically using arrays and the `map()` method.
+- **Projects:** Showcases my projects using reusable components.
+- **Contact:** Provides contact information.
+- **React Components:** Organized into separate, reusable components.
+- **Props:** Passes data between components.
+- **State:** Implements interactive features using React state.
+- **Responsive Design:** Works on desktop and mobile devices.
+- **Dark/Light Mode:** Allows users to switch between themes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+- React.js
+- JavaScript (ES6+)
+- JSX
+- HTML5
+- CSS3
+- Git and GitHub
+- Vite
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+Install Node.js and npm on your computer.
 
-## Expanding the Oxlint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yashvithms/week-5-developer-profile-page.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd week-5-developer-profile-page
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 📚 Learning Outcomes
+- Understanding React components and JSX.
+- Passing data using props.
+- Rendering dynamic lists using arrays and `map()`.
+- Managing interactive features using React state.
+- Creating responsive layouts.
+- Using Git and GitHub for version control.
+
+## 👨‍💻 Author
+**Yashvith M S**
+
+GitHub: [@yashvithms](https://github.com/yashvithms)
+
+## 🎯 Assignment
+Web Development – Week 05 Task
+
+Built as part of my React learning journey.
