@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   base: '/week-5-developer-profile-page/',
-  plugins: [react()],
+  plugins: [react({ jsxRuntime: 'automatic' })],
 })
